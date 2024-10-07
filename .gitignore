@@ -1,2 +1,11 @@
 Labs/lab 4/sentences.tar.bz2
 Labs/lab 4/sentences.csv
+Labs/lab 5/snli_1.0/snli_1.0/snli_1.0_train.txt
+Labs/lab 5/snli_1.0/snli_1.0/.DS_Store
+Labs/lab 5/snli_1.0/snli_1.0/Icon
+Labs/lab 5/snli_1.0/snli_1.0/README.txt
+Labs/lab 5/snli_1.0/snli_1.0/snli_1.0_dev.jsonl
+Labs/lab 5/snli_1.0/snli_1.0/snli_1.0_dev.txt
+Labs/lab 5/snli_1.0/snli_1.0/snli_1.0_test.jsonl
+Labs/lab 5/snli_1.0/snli_1.0/snli_1.0_test.txt
+Labs/lab 5/snli_1.0/snli_1.0/snli_1.0_train.jsonl
